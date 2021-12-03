@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4glwL0Aq8CiVtZVhx3b87bMeOWdl_eR52Q&usqp=CAU") ;
+    background-size:cover;
+    border: yellow 25.5px solid;
+    border-radius: 10px;
+}
+canvas{
+    background-color: cornsilk;
+    border-radius: 50px;
+    border: 5px crimson solid;
+    box-shadow: 5px 5px 5px grey;
+}
